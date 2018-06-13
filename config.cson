@@ -1,0 +1,25 @@
+"*":
+  "autocomplete-python":
+    pythonPaths: "/home/rohit/Documents/StandardChartered/env/bin/python; /usr/bin/python"
+    useSnippets: "all"
+  core:
+    disabledPackages: [
+      "wrap-guide"
+      "linter-flake8"
+    ]
+    telemetryConsent: "limited"
+    themes: [
+      "one-dark-ui"
+      "atom-dark-syntax"
+    ]
+  editor:
+    invisibles: {}
+    showIndentGuide: true
+    showInvisibles: true
+  "exception-reporting":
+    userId: "b1e932ae-4ba9-4fd8-b1d4-15c41058fdc5"
+  "linter-ui-default": {}
+  "pretty-json":
+    prettifyOnSaveJSON: true
+  welcome:
+    showOnStartup: false
